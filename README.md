@@ -5,6 +5,7 @@
 # requires
 
 selenium >= 3.141.0
+chromedriver(replace the chromdriver to fit your chrome version)
 
 ```
 conda install selenium
