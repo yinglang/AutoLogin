@@ -12,6 +12,10 @@ conda install selenium
 ```
 
 # run
+更改sim_verification.py中的line75为自己的校园网账户和密码
 ```
-python auto_login.py student_number passwd
+response_content = connection(username = 'xxxxxxxxxxxxxxx', password = 'xxxxxx')
+```
+```
+python sim_verification.py
 ```
