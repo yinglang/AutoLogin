@@ -4,11 +4,13 @@
 
 # requires
 
-selenium >= 3.141.0
-chromedriver(replace the chromdriver to fit your chrome version)
+~~selenium >= 3.141.0~~
+~~chromedriver(replace the chromdriver to fit your chrome version)~~
+PyExecJS
 
 ```
-conda install selenium
+pip3 install PyExecJS 
+# conda install selenium
 ```
 
 # run
